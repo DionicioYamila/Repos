@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\yddionicio.RSP.Corredor\Entidades\bin\Debug\Entidades.dll
+C:\Users\Administrator\source\repos\yddionicio.RSP.Corredor\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Administrator\source\repos\yddionicio.RSP.Corredor\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\yddionicio.RSP.Corredor\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\yddionicio.RSP.Corredor\Entidades\obj\Debug\Entidades.dll
+C:\Users\Administrator\source\repos\yddionicio.RSP.Corredor\Entidades\obj\Debug\Entidades.pdb
+D:\facultad\peque\EjercicioCorredor\yddionicio.RSP.Corredor\Entidades\bin\Debug\Entidades.dll
+D:\facultad\peque\EjercicioCorredor\yddionicio.RSP.Corredor\Entidades\bin\Debug\Entidades.pdb
+D:\facultad\peque\EjercicioCorredor\yddionicio.RSP.Corredor\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\facultad\peque\EjercicioCorredor\yddionicio.RSP.Corredor\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\facultad\peque\EjercicioCorredor\yddionicio.RSP.Corredor\Entidades\obj\Debug\Entidades.dll
+D:\facultad\peque\EjercicioCorredor\yddionicio.RSP.Corredor\Entidades\obj\Debug\Entidades.pdb
